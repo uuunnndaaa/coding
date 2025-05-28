@@ -15,7 +15,7 @@ ul li {
 
 /* label 텍스트 스타일 */
 li label {
-  width:120px;
+  width:110px;
   line-height: 36px;
   float:left;
   font-weight:bold;
@@ -24,7 +24,7 @@ li label {
 /* 텍스트 필드 스타일 */
 input[type="text"], input[type="password"], input[type="email"] {
   width:300px;
-  height:30px;
+  height:25px;
 }
 
 /* 버튼 스타일 */
@@ -39,9 +39,9 @@ input[type="text"], input[type="password"], input[type="email"] {
   font-size:20px;
 }
 #buttons input:hover {
-  background-color:rgb(27, 134, 221);
+  background-color:rgb(00, 134, 221);
   color:#fff;
-  border-color:#fff;
+  border-color:#626262;
 }
 
 /* 드롭다운 메뉴 스타일 */
